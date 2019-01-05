@@ -1,2 +1,2 @@
-# Go-J11-
+# Go-J11
 First Phase
